@@ -1,4 +1,4 @@
-World Choropleth of Global Trade Balance
+# World Choropleth of Global Trade Balance
 
 ## Site is deployed on Heroku:
 https://world-trade-balance.herokuapp.com
